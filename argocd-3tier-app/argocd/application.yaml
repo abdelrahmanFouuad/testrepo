@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yourusername/3Tier-deployment-with-ArgoCd.git  
+    repoURL: https://github.com/abdelrahmanFouuad/testrepo.git 
     targetRevision: HEAD
-    path: manifests
+    path: argocd-3tier-app/apps/manifests
   destination:
     server: https://kubernetes.default.svc
     namespace: three-tier-app
