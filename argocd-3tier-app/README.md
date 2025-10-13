@@ -1,15 +1,3 @@
-You're absolutely right — thank you for the correction.
-
-The **correct repository** for this documentation is:
-
-> **https://github.com/abdelrahmanFouuad/testrepo/tree/main/argocd-3tier-app**
-
-I’ll now provide the **fully updated documentation** with:
-- The correct GitHub URL
-- Accurate paths based on your structure (`argocd-3tier-app/apps/...`)
-- Proper image references (`abdelrahmanfouuad/frontend:latest`, etc.)
-
----
 
 # 📄 Documentation: 3-Tier Application Deployment with ArgoCD
 
